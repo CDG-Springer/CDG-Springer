@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-Cursando análise e desenvolvimento de sistemas, gosto de frontend, gosto de python, gosto de javascript, estou aprendendo react.
+Atualmente, estou matriculado no curso de Análise e Desenvolvimento de Sistemas. Tenho um forte interesse na área de frontend e aprecio trabalhar com tecnologias como Python e JavaScript. Além disso, estou dedicando meu tempo para aprender React, ampliando assim minhas habilidades e conhecimentos no desenvolvimento de aplicações web.
 
 ## 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eric-springer-bb0928184) 
