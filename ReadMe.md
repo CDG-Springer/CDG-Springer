@@ -1,4 +1,4 @@
-# 💫 Sobre Mim:
+# Sobre Mim:
 Atualmente, estou matriculado no curso de Análise e Desenvolvimento de Sistemas. Tenho um forte interesse na área de frontend e aprecio trabalhar com tecnologias como Python e JavaScript. Além disso, estou dedicando meu tempo para aprender React, ampliando assim minhas habilidades e conhecimentos no desenvolvimento de aplicações web.
 
 ## 🌐 Redes Sociais:
