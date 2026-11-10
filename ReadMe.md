@@ -1,38 +1,40 @@
 <div align="center">
 
-# Olá, eu sou o Eric Springer 👋
+# Hi, I'm Eric Springer 👋
 
-**Desenvolvedor Full Stack & IA** · Formado em Análise e Desenvolvimento de Sistemas
+**Full Stack & AI Developer** · Systems Analysis and Development graduate
+
+🌐 **English** · [Português](https://github.com/CDG-Springer/CDG-Springer/blob/main/README.pt-BR.md)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/eric-springer-bb0928184)
-![Foco](https://img.shields.io/badge/Foco-Full_Stack_%2B_IA-8A2BE2?style=flat-square)
-![Aprendendo](https://img.shields.io/badge/Aprendendo-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Focus](https://img.shields.io/badge/Focus-Full_Stack_%2B_AI-8A2BE2?style=flat-square)
+![Learning](https://img.shields.io/badge/Learning-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 🧑‍💻 About me
 
-Formado em **Análise e Desenvolvimento de Sistemas**. Construo produtos **Full Stack** com IA no centro: do banco de dados à interface, passando por agentes e automações.
+Graduate in **Systems Analysis and Development**. I build **Full Stack** products with AI at the core: from the database to the interface, including agents and automations.
 
-- 🤖 Crio **agentes de IA**, automações e integrações com **LLMs** (Claude, MCP, RAG)
-- ⚡ Desenvolvo com **Claude Code** no dia a dia: especificação clara, agentes em paralelo e revisão rigorosa do que vai para produção
-- 🧩 Full Stack de ponta a ponta: APIs, bancos de dados, interfaces e deploy
-- 🐍 **Python** e **TypeScript/JavaScript** como base
-- ⚛️ Aprofundando em **React** e **Next.js** para interfaces modernas
-- 🎨 Bagagem de design (Illustrator e Photoshop) para cuidar da experiência de uso
+- 🤖 I build **AI agents**, automations and **LLM** integrations (Claude, MCP, RAG)
+- ⚡ I work daily with **Claude Code**: clear specs, parallel agents and rigorous review of everything that ships
+- 🧩 End-to-end Full Stack: APIs, databases, interfaces and deployment
+- 🐍 **Python** and **TypeScript/JavaScript** as my foundation
+- ⚛️ Going deeper into **React** and **Next.js** for modern interfaces
+- 🎨 Design background (Illustrator and Photoshop) to care about the user experience
 
 ---
 
 ## 💻 Tech Stack
 
-**IA**
+**AI**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
-![Agentes](https://img.shields.io/badge/Agentes_de_IA-8A2BE2?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-8A2BE2?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-1F6FEB?style=flat-square)
 
 **Frontend**
@@ -52,7 +54,7 @@ Formado em **Análise e Desenvolvimento de Sistemas**. Construo produtos **Full 
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-**Dados & Infra**
+**Data & Infra**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
@@ -69,15 +71,15 @@ Formado em **Análise e Desenvolvimento de Sistemas**. Construo produtos **Full 
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <table align="center">
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=CDG-Springer&theme=tokyonight&show_icons=true&hide_border=true&card_width=420&line_height=18" width="420" alt="Estatísticas" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=CDG-Springer&theme=tokyonight&show_icons=true&hide_border=true&card_width=420&line_height=18" width="420" alt="GitHub stats" />
     </td>
     <td valign="top">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CDG-Springer&theme=tokyonight&layout=compact&hide_border=true&card_width=420" width="420" alt="Linguagens mais usadas" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CDG-Springer&theme=tokyonight&layout=compact&hide_border=true&card_width=420" width="420" alt="Most used languages" />
     </td>
   </tr>
   <tr>
@@ -87,15 +89,15 @@ Formado em **Análise e Desenvolvimento de Sistemas**. Construo produtos **Full 
   </tr>
 </table>
 
-### 🔝 Principais repositórios contribuídos
+### 🔝 Top contributed repositories
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=CDG-Springer&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Principais repositórios" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=CDG-Springer&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top contributed repositories" />
 </p>
 
 ---
 
 <p align="center">
-  💬 Vamos conversar? Me chame no <a href="https://linkedin.com/in/eric-springer-bb0928184">LinkedIn</a>.<br/><br/>
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=CDG-Springer&icon=5&color=8" alt="Visitas" /></a>
+  💬 Let's talk! Reach me on <a href="https://linkedin.com/in/eric-springer-bb0928184">LinkedIn</a>.<br/><br/>
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=CDG-Springer&icon=5&color=8" alt="Visits" /></a>
 </p>
