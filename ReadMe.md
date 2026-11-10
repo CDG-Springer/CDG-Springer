@@ -73,26 +73,13 @@ Graduate in **Systems Analysis and Development**. I build **Full Stack** product
 
 ## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=CDG-Springer&theme=tokyonight&show_icons=true&hide_border=true&card_width=420&line_height=18" width="420" alt="GitHub stats" />
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CDG-Springer&theme=tokyonight&layout=compact&hide_border=true&card_width=420" width="420" alt="Most used languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com/?user=CDG-Springer&theme=tokyonight&hide_border=true&width=420&height=150" width="420" alt="Streak" />
-    </td>
-  </tr>
-</table>
-
-### 🔝 Top contributed repositories
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=CDG-Springer&theme=tokyonight&show_icons=true&hide_border=true&card_width=420&line_height=20&include_all_commits=true&count_private=true" width="420" alt="GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CDG-Springer&theme=tokyonight&layout=compact&hide_border=true&card_width=420&langs_count=6" width="420" alt="Most used languages" />
+</p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=CDG-Springer&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top contributed repositories" />
+  <img src="https://streak-stats.demolab.com/?user=CDG-Springer&theme=tokyonight&hide_border=true&width=420&height=165" width="420" alt="Streak" />
 </p>
 
 ---
