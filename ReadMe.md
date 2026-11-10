@@ -74,8 +74,8 @@ Graduate in **Systems Analysis and Development**. I build **Full Stack** product
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=CDG-Springer&theme=tokyonight&show_icons=true&hide_border=true&card_width=420&line_height=20&include_all_commits=true&count_private=true" width="420" alt="GitHub stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CDG-Springer&theme=tokyonight&layout=compact&hide_border=true&card_width=420&langs_count=6" width="420" alt="Most used languages" />
+  <img align="top" src="https://github-readme-stats-fast.vercel.app/api?username=CDG-Springer&theme=tokyonight&show_icons=true&hide_border=true&card_width=420&line_height=21&include_all_commits=true&count_private=true" width="420" alt="GitHub stats" />
+  <img align="top" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CDG-Springer&theme=tokyonight&layout=compact&hide_border=true&card_width=420&langs_count=6" width="420" alt="Most used languages" />
 </p>
 
 <p align="center">
@@ -86,5 +86,5 @@ Graduate in **Systems Analysis and Development**. I build **Full Stack** product
 
 <p align="center">
   💬 Let's talk! Reach me on <a href="https://linkedin.com/in/eric-springer-bb0928184">LinkedIn</a>.<br/><br/>
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=CDG-Springer&icon=5&color=8" alt="Visits" /></a>
+  <img src="https://komarev.com/ghpvc/?username=CDG-Springer&color=007ec6&style=flat-square&label=Visits" alt="Visits" />
 </p>
