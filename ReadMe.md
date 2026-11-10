@@ -1,3 +1,17 @@
+<div align="center">
+
+# Olá, eu sou o Eric Springer 👋
+
+**Desenvolvedor Full Stack & IA** · Formado em Análise e Desenvolvimento de Sistemas
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/eric-springer-bb0928184)
+![Foco](https://img.shields.io/badge/Foco-Full_Stack_%2B_IA-8A2BE2?style=flat-square)
+![Aprendendo](https://img.shields.io/badge/Aprendendo-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+</div>
+
+---
+
 ## 🧑‍💻 Sobre mim
 
 Formado em **Análise e Desenvolvimento de Sistemas**. Construo produtos **Full Stack** com IA no centro: do banco de dados à interface, passando por agentes e automações.
@@ -52,3 +66,36 @@ Formado em **Análise e Desenvolvimento de Sistemas**. Construo produtos **Full 
 
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<table align="center">
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=CDG-Springer&theme=tokyonight&show_icons=true&hide_border=true&card_width=420&line_height=18" width="420" alt="Estatísticas" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CDG-Springer&theme=tokyonight&layout=compact&hide_border=true&card_width=420" width="420" alt="Linguagens mais usadas" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com/?user=CDG-Springer&theme=tokyonight&hide_border=true&width=420&height=150" width="420" alt="Streak" />
+    </td>
+  </tr>
+</table>
+
+### 🔝 Principais repositórios contribuídos
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=CDG-Springer&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Principais repositórios" />
+</p>
+
+---
+
+<p align="center">
+  💬 Vamos conversar? Me chame no <a href="https://linkedin.com/in/eric-springer-bb0928184">LinkedIn</a>.<br/><br/>
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=CDG-Springer&icon=5&color=8" alt="Visitas" /></a>
+</p>
